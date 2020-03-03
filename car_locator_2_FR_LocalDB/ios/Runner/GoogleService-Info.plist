@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>314752563880-ssh3sh0kcnh4htqanh213qd7tpiqu3vn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.314752563880-ssh3sh0kcnh4htqanh213qd7tpiqu3vn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBBZmBf80zPH3tsnth24oRd8EiwdMbHni0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>314752563880</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.carLocator2</string>
+	<key>PROJECT_ID</key>
+	<string>comexamplecarlocator2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>comexamplecarlocator2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:314752563880:ios:c0ef888b025b6a9853609d</string>
+	<key>DATABASE_URL</key>
+	<string>https://comexamplecarlocator2.firebaseio.com</string>
+</dict>
+</plist>

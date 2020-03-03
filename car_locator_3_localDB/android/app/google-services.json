@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "314752563880",
+    "firebase_url": "https://comexamplecarlocator2.firebaseio.com",
+    "project_id": "comexamplecarlocator2",
+    "storage_bucket": "comexamplecarlocator2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314752563880:android:241ca6ef71eed40153609d",
+        "android_client_info": {
+          "package_name": "com.example.carLocator2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314752563880-in4imks3s0eauqhl487pqpifsqsobu2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAeTgkwX4LBTxFUuMSswKSxEcOui_F3y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314752563880-in4imks3s0eauqhl487pqpifsqsobu2g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "314752563880-ssh3sh0kcnh4htqanh213qd7tpiqu3vn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.carLocator2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
