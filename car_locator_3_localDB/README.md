@@ -1,6 +1,9 @@
 # car_locator_2
 
-A new Flutter project.
+
+Pinpoints the users location (google maps) and stores it on local db (SQL lite). When the app is opened a second time a route is calculate back to the users original position. Their DB information is stored (geo points).
+Route to the user's location is calculated.
+
 
 ## Getting Started
 
