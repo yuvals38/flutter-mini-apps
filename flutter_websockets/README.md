@@ -1,6 +1,6 @@
 # flutter_websockets
 
-A new Flutter project.
+Implementation of websockets with Flutter. Send and receive response from test websocket.
 
 ## Getting Started
 
