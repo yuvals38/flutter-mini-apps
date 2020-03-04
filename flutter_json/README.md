@@ -1,6 +1,6 @@
 # flutter_json
 
-A new Flutter project.
+Use of Json in Flutter (analysis information for testing)
 
 ## Getting Started
 
