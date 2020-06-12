@@ -1,6 +1,7 @@
 # flutter_websockets
 
-A new Flutter project.
+Implementation of websockets with Flutter. Send and receive response from test websocket. The reply will be in speech format.
+Language options added.
 
 ## Getting Started
 

@@ -1,6 +1,8 @@
 # car_locator_2
 
-A new Flutter project.
+Pinpoints the users location (google maps) and stores it on firebase (db). When the app is opened a second time a route is calculate back to the users original position. Their Firebase information is stored (geo points) and can be shared among other users (given permission by the original user).
+Route to the user's location is calculated (optional) or manually created route.
+Location is responsive and updated between shared geo point among users from the DB.
 
 ## Getting Started
 

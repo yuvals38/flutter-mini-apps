@@ -1,6 +1,6 @@
 # todo_voice
 
-A new Flutter project.
+Simple todo dashboard
 
 ## Getting Started
 
