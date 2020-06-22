@@ -1,18 +1,20 @@
 class Data{
   int SetMap;
-  int O2BP;
+  int O2BP = 0;
+  double O2VAL;
   int IdelRPM;
   List<int> MAP1 = [21];
-  var MAP2 = [];
-  var ACC0 = new List(20);
-  var ACC1 = new List(20);
-  var ACC2 = new List(20);
+  List<int> MAP2 = [21];
+  List<int>  ACC0 = [21];
+  List<int>  ACC1 = [21];
+  List<int>  ACC2 = [21];
   int RPMslope_ON;
-  double RPMslope;
+  int RPMslope;
 
   Data({
         this.SetMap,
         this.O2BP,
+        this.O2VAL,
         this.IdelRPM,
         this.MAP1,
         this.MAP2,
